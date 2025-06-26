@@ -1,0 +1,6 @@
+@Think_Digitally_week01_HostAddress = http://localhost:5082
+
+GET {{Think_Digitally_week01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

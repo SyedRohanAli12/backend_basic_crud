@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Think_Digitally_week01", "Think_Digitally_week01.csproj", "{395316D4-DE74-45FA-9A19-CB0CB46DCA35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395316D4-DE74-45FA-9A19-CB0CB46DCA35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395316D4-DE74-45FA-9A19-CB0CB46DCA35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395316D4-DE74-45FA-9A19-CB0CB46DCA35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395316D4-DE74-45FA-9A19-CB0CB46DCA35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D400F189-A6ED-46F4-AEFA-E1DD7E2F8518}
+	EndGlobalSection
+EndGlobal

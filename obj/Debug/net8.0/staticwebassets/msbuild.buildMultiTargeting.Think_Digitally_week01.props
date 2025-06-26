@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Think_Digitally_week01.props" />
+</Project>
