@@ -3,72 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\services\\icatgeoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:services\\icatgeoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|c:\\users\\syedrohanali\\source\\repos\\thinkdigitally_week01-02-main\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{395316D4-DE74-45FA-9A19-CB0CB46DCA35}|Think_Digitally_week01.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,56 +90,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAswCQAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwEkAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T13:56:09.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:43:05.926Z",
+              "WhenOpened": "2025-06-18T09:49:37.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv0wAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:43:45.919Z",
+              "WhenOpened": "2025-06-18T10:50:37.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "ICatgeoryService.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Services\\ICatgeoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICatgeoryService.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Services\\ICatgeoryService.cs",
+              "RelativeToolTip": "Services\\ICatgeoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:59:56.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wCwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:00:42.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T09:54:59.509Z",
               "EditorCaption": ""
@@ -135,162 +160,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvxwAAAAaAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABUAAABwZmZmZmYjwCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:53:10.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-19T10:05:52.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T10:50:37.736Z",
+              "WhenOpened": "2025-07-01T11:08:00.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\ICategoryRepository.cs",
-              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:14:55.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:29:20.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:49:37.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T10:00:24.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T09:48:05.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserLogin.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Models\\UserLogin.cs",
-              "RelativeDocumentMoniker": "Models\\UserLogin.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Models\\UserLogin.cs",
-              "RelativeToolTip": "Models\\UserLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T13:55:07.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:23:55.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "Services\\IProductService.cs",
               "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Services\\IProductService.cs",
               "RelativeToolTip": "Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T09:47:06.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T10:50:29.21Z",
+              "WhenOpened": "2025-06-18T09:48:05.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:00:24.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:53:10.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:43:45.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -300,6 +246,102 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T10:22:31.475Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:14:55.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:29:20.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:50:29.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T11:21:33.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T11:19:35.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T10:05:52.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Models\\UserLogin.cs",
+              "RelativeToolTip": "Models\\UserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:55:07.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T13:56:09.504Z"
             }
           ]
         }

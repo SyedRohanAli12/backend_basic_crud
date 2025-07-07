@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Think_Digitally_week01.Models;
 using Think_Digitally_week01.Services;
@@ -23,6 +22,12 @@ namespace Think_Digitally_week01.Controllers
         public IActionResult AddProduct([FromBody] Product product)
         {
             return Ok(_productService.AddProduct(product));
+        }
+
+        [HttpGet("paged")]
+        public IActionResult GetPaged([FromQuery] string? search, int page = 1, int pageSize = 10, string? sortBy = "id", bool ascending = true)
+        {
+            return Ok(_productService.GetFilteredProducts(search, page, pageSize, sortBy, ascending));
         }
 
         [HttpGet]

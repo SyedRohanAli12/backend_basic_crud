@@ -12,8 +12,8 @@ using Think_Digitally_week01.Data;
 namespace Think_Digitally_week01.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250623104549_AddProductCategoryRelation")]
-    partial class AddProductCategoryRelation
+    [Migration("20250701113524_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -48,7 +48,7 @@ namespace Think_Digitally_week01.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Category");
+                    b.ToTable("Categories");
                 });
 
             modelBuilder.Entity("Think_Digitally_week01.Models.Product", b =>
@@ -82,7 +82,7 @@ namespace Think_Digitally_week01.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Product");
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("Think_Digitally_week01.Models.Product", b =>

@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Think_Digitally_week01.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Think_Digitally_week01.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Think_Digitally_week01.http",
+              "DocumentMoniker": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Think_Digitally_week01.http",
+              "RelativeDocumentMoniker": "Think_Digitally_week01.http",
+              "ToolTip": "C:\\Users\\SyedRohanAli\\source\\repos\\thinkdigitally_week01-02-main\\Think_Digitally_week01.http",
+              "RelativeToolTip": "Think_Digitally_week01.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-30T11:17:32.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

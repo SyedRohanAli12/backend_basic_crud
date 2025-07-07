@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Think_Digitally_week01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dcbb65080765e898c98cfb31d461750f465f1de")]
 [assembly: System.Reflection.AssemblyProductAttribute("Think_Digitally_week01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Think_Digitally_week01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

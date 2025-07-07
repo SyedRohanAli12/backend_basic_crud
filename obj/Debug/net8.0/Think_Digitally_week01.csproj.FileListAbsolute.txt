@@ -273,7 +273,6 @@ C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\obj\Debug\net8.
 C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\obj\Debug\net8.0\Think_Di.C60AB4E3.Up2Date
 C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\obj\Debug\net8.0\Think_Digitally_week01.genruntimeconfig.cache
 C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\obj\Debug\net8.0\ref\Think_Digitally_week01.dll
-C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
@@ -282,3 +281,5 @@ C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\bin\Debug\net8.
 C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\obj\Debug\net8.0\Think_Digitally_week01.sourcelink.json
+C:\Users\SyedRohanAli\source\repos\thinkdigitally_week01-02-main\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

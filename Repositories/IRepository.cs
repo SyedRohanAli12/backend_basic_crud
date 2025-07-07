@@ -8,5 +8,6 @@ namespace Think_Digitally_week01.Repositories
         List<T> GetAll();
         string Update(T entity);
         void Delete(T entity);
+        T GetById(int id);
     }
 }
